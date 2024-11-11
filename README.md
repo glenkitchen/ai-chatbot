@@ -18,7 +18,7 @@
 ## Features
 
 - [Next.js](https://nextjs.org) App Router
-  - Advanced routing for seamless navigation and performance
+  - Advanced routing for seamless navigation and performance.
   - React Server Components (RSCs) and Server Actions for server-side rendering and increased performance
 - [AI SDK](https://sdk.vercel.ai/docs)
   - Unified API for generating text, structured objects, and tool calls with LLMs
